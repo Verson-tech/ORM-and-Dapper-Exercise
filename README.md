@@ -22,7 +22,7 @@ IDbConnection conn = new MySqlConnection(connString);
 ```
 
 8. Create a Department class
-9.Create an IDepartmentRepository interface
+9. Create an IDepartmentRepository interface
 10. Create a DapperDepartmentRepository class
 11. Create a GetAllDepartments Method
 12. Create an InsertDepartment Method
